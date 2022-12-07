@@ -1,1 +1,1 @@
-Doing the project entitled Shell basics
+Shell init files, variables and expansions
